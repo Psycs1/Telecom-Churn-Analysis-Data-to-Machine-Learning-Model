@@ -8,7 +8,6 @@ This project marks my first complete data analysis journey, where I explored cus
 📊 [Explore the Kaggle notebook](https://www.kaggle.com/code/darkpsycs/churn-analysis-power-bi-dashboard)
 
 Objective
-
 To analyze customer behavior and identify churn drivers using data visualization and machine learning. The project answers:  
 “What factors influence customer churn, and how can telecom companies proactively reduce it?”
 
