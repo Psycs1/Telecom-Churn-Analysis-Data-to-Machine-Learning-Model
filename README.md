@@ -84,8 +84,7 @@ Jammu & Kashmir state has high records of churn, might be presence of high compe
    Continuously track churn metrics in Power BI to adapt strategies in real time.
 
 Dashboard Highlights
-![Dashboard Preview](Telecom-Churn-Analysis-Data-to-Machine-Learning-Model
-/Telecom churn.png)
+(Telecom-Churn-Analysis-Data-to-Machine-Learning-Model/Telecom churn.png)
 - Churn by Contract Type  
 - Total churn by Gender
 - Total customers and Churn rate by age group 
