@@ -1,4 +1,4 @@
-# Telecom-Churn-Analysis-Data-to-Machine-Learning-Model
+# Telecom-Churn-Analysis-Data-analysis-to-Machine-Learning-Model
 To uncover the key drivers of customer churn in a telecom dataset and build a predictive model to identify at-risk customers.
 Project Overview
 
@@ -21,7 +21,7 @@ Dataset Summary
   - Monthly Charges  
   - Payment Method  
   - Services Subscribed  
-  - Churn Indicator  
+  - Customer status  
 
 Tools & Technologies
 
